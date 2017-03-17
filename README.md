@@ -5,7 +5,7 @@ Unity Version 5.5.2 + 2D game.<br>
 Platform: IOS, only support landscape. (You can change to any other platform in PlayerSettings)
 
 ## Demo:
-![Demo](/res/demo.gif)
+<img src="/res/demo.gif" width="736px" height="414px"/>
 
 ## TODO:
 1. Set a final destination.
