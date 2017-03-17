@@ -1,2 +1,12 @@
-# LineRiderReplica
-Line Rider powered by Unity3d
+# Line Rider
+This game allows user to draw lines(WHAT?). When the game starts, the yellow ball will drop, and collide with the lines that user has drawn before.
+## Environment:
+Unity Version 5.5.2 + 2D game.<br>
+Platform: IOS, only support landscape. (You can change to any other platform in PlayerSettings)
+
+## Demo:
+![Demo](/res/demo.gif)
+
+## TODO:
+1. Set a final destination.
+2. Create a game over scenario.
